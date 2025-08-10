@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5)](https://www.linkedin.com/in/abhishek-rohatagi-bb17801ab/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-rohatagi-bb17801ab/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek251314@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhishek-rohtagi.my.canva.site/abhishek-rohatagi-portfolio-website)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919027213870)
@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=fadeIn" />
 </div>
 
 ---
@@ -51,7 +51,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ### **Databases & Tools**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -75,11 +75,9 @@
             <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400" alt="HR Dashboard"/>
           </a>
           <br><br>
-          <p>
-            <a href="https://link-to-project.com" target="_blank">
-              <img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-          </p>
+          <a href="https://link-to-project.com" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
           <p><strong>Power BI • Interactive Dashboard • Data Visualization</strong></p>
           <p>3-page interactive HR dashboard with employee demographics, retirement analytics, and satisfaction metrics featuring drill-through capabilities.</p>
         </div>
@@ -91,11 +89,9 @@
             <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="SQL Project"/>
           </a>
           <br><br>
-          <p>
-            <a href="https://link-to-project.com" target="_blank">
-              <img src="https://img.shields.io/badge/View%20Project-4ECDC4?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-          </p>
+          <a href="https://link-to-project.com" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Project-4ECDC4?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
           <p><strong>SQL • Data Analysis • Executive Dashboard</strong></p>
           <p>Complex SQL analytics project analyzing infrastructure data, uncovering delays and vendor insights using advanced SQL techniques.</p>
         </div>
@@ -109,11 +105,9 @@
             <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="400" alt="ML Project"/>
           </a>
           <br><br>
-          <p>
-            <a href="https://link-to-project.com" target="_blank">
-              <img src="https://img.shields.io/badge/View%20Project-45B7D1?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-          </p>
+          <a href="https://link-to-project.com" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Project-45B7D1?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
           <p><strong>Python • Machine Learning • Clustering</strong></p>
           <p>Unsupervised learning project using K-Means, Hierarchical Clustering, and DBSCAN for customer behavior segmentation.</p>
         </div>
@@ -125,11 +119,9 @@
             <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" alt="More Projects"/>
           </a>
           <br><br>
-          <p>
-            <a href="https://github.com/abhishekrohatagi?tab=repositories" target="_blank">
-              <img src="https://img.shields.io/badge/View%20All-96CEB4?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-          </p>
+          <a href="https://github.com/abhishekrohatagi?tab=repositories" target="_blank">
+            <img src="https://img.shields.io/badge/View%20All-96CEB4?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
           <p><strong>Explore my GitHub repositories</strong></p>
           <p>Discover more data science projects, analytics dashboards, and machine learning implementations.</p>
         </div>
@@ -201,19 +193,12 @@
 
 <div align="center">
   
-  <a href="https://www.linkedin.com/in/abhishek-rohatagi-bb17801ab/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:abhishek251314@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://abhishek-rohtagi.my.canva.site/abhishek-rohatagi-portfolio-website" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=abhishekrohatagi&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-rohatagi-bb17801ab/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek251314@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhishek-rohtagi.my.canva.site/abhishek-rohatagi-portfolio-website)
+
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=abhishekrohatagi&style=for-the-badge&color=brightgreen" alt="Profile Views" />
   
 </div>
 
