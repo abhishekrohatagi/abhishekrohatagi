@@ -1,65 +1,89 @@
-<!--
-This README is designed for a GitHub portfolio.
-Replace placeholders with your details.
--->
+# 👋 Hi, I'm **Abhishek Rohatagi**
 
-# 👋 Hi, I'm **Abhishek Rohatagi**!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhishek-rohatagi-bb17801ab/)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:abhishek251314@gmail.com)  
+📍 Muzaffarnagar, Uttar Pradesh | 📱 +91 90272 13870 | [🌐 Portfolio Website](https://abhishek-rohtagi.my.canva.site/abhishek-rohatagi-portfolio-website)
 
 ---
 
-## 🚀 About Me
+## 📝 Summary
 
-- 🔭 I’m currently working on **Data Analysis and Visualization projects**  
-- 🌱 Learning **Advanced SQL, Power BI, and Python for Data Science**  
-- 👯 I’m looking to collaborate on **open source analytics projects and AI tools**  
-- 💬 Ask me about **SQL queries, data storytelling, and AI applications in business**  
-- 📫 How to reach me: abhishek.email@example.com  
-- ⚡ Fun fact: I love exploring new data trends and AI innovations!
+Engineering graduate with a strong **analytical foundation** and **hands-on experience in data analytics**.  
+Proficient in **Python, SQL, Power BI, and data visualization tools** with a proven ability to extract **actionable insights** from complex datasets.  
+Passionate about leveraging data to **solve business problems** and **drive decision-making**.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠 Technical Skills
 
-| Programming | Data Analysis | Visualization | Databases | Cloud & Others |
-|-------------|---------------|---------------|-----------|---------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black) | ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-F7931E?style=for-the-badge&logo=matplotlib&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| Category                | Skills |
+|------------------------|--------|
+| **Data Analysis & BI** | Power BI, Tableau, Google Sheets, MS Excel |
+| **Programming**        | Python, SQL, DAX, R (Beginner) |
+| **Data Science**       | Statistics, Machine Learning, Pandas, NumPy, Scikit-learn |
+| **Visualization**      | Matplotlib, Seaborn, Plotly |
+| **Database Systems**   | MySQL, PostgreSQL |
+| **Other Tools**        | Git/GitHub, MS Office, Jupyter Notebook, Data Cleaning & Wrangling |
 
 ---
 
 ## 📂 Projects
 
-### [Data Analysis Portfolio](https://github.com/yourusername/data-analysis-portfolio)  
-Analyze real-world datasets using SQL, Python, and Power BI. Includes revenue analysis, customer segmentation, and visualization dashboards.
+### 📊 **HR Analytics Dashboard in Power BI** [🔗 Link](https://link-to-project.com)
+- Developed a **3-page interactive HR dashboard** showing employee demographics, retirements, department-wise stats, and satisfaction levels.  
+- Used **buttons for easy navigation** and **drill-through features** for deeper analysis.
 
-### [SQL Query Collection](https://github.com/yourusername/sql-query-collection)  
-A curated set of practical SQL queries for business analytics, covering joins, window functions, and performance tuning.
+### 🗄 **SQL Case Study: Public Sector Infrastructure Project Analysis** [🔗 Link](https://link-to-project.com)
+- Built an **SQL-based analytics project** to analyze infrastructure project data.  
+- Uncovered delays, unpaid invoices, and high-volume vendors using **CTEs, window functions, and CASE logic**.  
+- Created an **executive dashboard** to summarize key metrics.
 
-### [Power BI Sales Dashboard](https://github.com/yourusername/powerbi-sales-dashboard)  
-Interactive sales dashboard with DAX measures, custom visuals, and monthly trend analysis.
-
----
-
-## 📊 GitHub Stats
-
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
+### 🧠 **Customer Segmentation with Unsupervised Learning** [🔗 Link](https://link-to-project.com)
+- Applied **K-Means, Hierarchical Clustering, and DBSCAN** to segment customers by spending behavior.  
+- Built a **predictive pipeline** to enable targeted marketing and personalized recommendations.
 
 ---
 
-## 📫 Let's Connect!
+## 🎓 Education
 
-- Email: abhishek.email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+**Graphic Era Deemed to be University** — *B.Tech in Mechanical Engineering*  
+📅 Jul 2018 – Jun 2022 | **CGPA:** 8.59  
+- Thesis: *Effect of unglazed solar flat plate collector on thermal efficiency and outlet temperature.*
+
+**D.A.V. Inter College, Jansath** — *Intermediate (Science)*  
+📅 Jul 2016 – Jun 2017 | **Grade:** 84.2%
+
+---
+
+## 📜 Certifications
+
+- Python for Machine Learning & Data Science  
+- Business Strategy Specialization  
+- Data Analysis with Python (Coursera) *(Extra)*
+- SQL for Data Science *(Extra)*
+
+---
+
+## 🌍 Languages
+
+- English (Professional)
+- Hindi (Native)
+
+---
+
+## 📈 GitHub Stats
+
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+💡 *Currently seeking opportunities in Data Analytics, Business Intelligence, and Data Science.*  
+📩 Reach out: **[abhishek251314@gmail.com](mailto:abhishek251314@gmail.com)**
 
 ---
 
 <div align="center">
-  <sub>Made with ❤️ by Abhishek Rohatagi</sub>
+  <sub>Made with ❤️ and Data by Abhishek Rohatagi</sub>
 </div>
+
 
