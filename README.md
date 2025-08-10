@@ -100,9 +100,10 @@
 
 ## 🌍 Languages  
 <div align="center">
-  ![English](https://img.shields.io/badge/English-Professional-blue?style=for-the-badge)
-  ![Hindi](https://img.shields.io/badge/Hindi-Native-orange?style=for-the-badge)
+  <img src="https://img.shields.io/badge/English-Professional-blue?style=for-the-badge" alt="English"/>
+  <img src="https://img.shields.io/badge/Hindi-Native-orange?style=for-the-badge" alt="Hindi"/>
 </div>
+
 
 ---
 
