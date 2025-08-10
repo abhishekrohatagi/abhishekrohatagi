@@ -73,7 +73,7 @@ Passionate about leveraging data to **solve business problems** and **drive deci
 
 ## 📈 GitHub Stats
 
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekrohatagi&show_icons=true&theme=radical)
 
 ---
 
