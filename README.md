@@ -12,13 +12,13 @@ Aspiring Data Analyst | Python & SQL Enthusiast | Turning raw data into actionab
 
 ---
 
-### 👨‍💻 About Me
+##  About Me
 
 Engineering graduate with strong analytical foundation and hands-on experience in data analytics. Proficient in Python, SQL, and data visualization tools with demonstrated ability to extract actionable insights from complex datasets. Passionate about leveraging data to solve business problems and drive decision-making.
 
 ---
 
-### ⚙️ Skills
+##  Skills
 
 **Programming Languages:**  
 `Python` · `SQL` · `R`
@@ -40,7 +40,7 @@ Engineering graduate with strong analytical foundation and hands-on experience i
 
 ---
 
-### 📂 Featured Projects
+## Featured Projects
 
 | Project                           | Description                                         | Tools Used                       |
 |-----------------------------------|-----------------------------------------------------|----------------------------------|
@@ -52,7 +52,7 @@ Engineering graduate with strong analytical foundation and hands-on experience i
 
 ---
 
-### 🚀 Currently Working On
+## Currently Working On
 
 - Completing a **6-month Data Analytics Bootcamp**
 - Building a real-world **data analytics project portfolio**
