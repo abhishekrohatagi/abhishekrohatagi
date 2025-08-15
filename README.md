@@ -17,12 +17,25 @@ Aspiring Data Analyst | Python & SQL Enthusiast | Turning raw data into actionab
 
 ### 🛠 Technical Skills
 
-| Domain            | Tools/Technologies                             |
-|-------------------|-----------------------------------------------|
-| Programming       | Python (Pandas, NumPy, Matplotlib, Seaborn)    |
-| Databases         | SQL Server, MySQL                             |
-| BI & Visualization| Power BI, Plotly, Excel                       |
-| Concepts          | EDA, Dashboarding, Statistical Analysis        |
+### ⚙️ Skills
+
+**Programming Languages:**  
+`Python` · `SQL` · `R`
+
+**Data Analysis:**  
+`Excel` · `Google Sheets` · `Statistics`
+
+**Data Visualization:**  
+`Power BI` · `Tableau`
+
+**Machine Learning:**  
+`Supervised Learning` · `Unsupervised Learning` · `Clustering`
+
+**Libraries & Packages:**  
+`NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Plotly` · `Scikit-Learn`
+
+**Other Tools:**  
+`MS Office` · `Canva` · `Notion` · `LLM`
 
 ---
 
