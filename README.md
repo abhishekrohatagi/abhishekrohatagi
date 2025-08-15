@@ -47,7 +47,7 @@ Engineering graduate with strong analytical foundation and hands-on experience i
 | **Sales Dashboard**               | Interactive dashboard to analyze sales KPIs         | Power BI, Excel                  | [View Repo](https://github.com/abhishekrohatagi/your-repo-link) |
 | **Customer Churn Prediction**     | Predict churn using ML on telecom dataset           | Python (Pandas, Sklearn)         | [View Repo](https://github.com/abhishekrohatagi/your-repo-link) |
 | **SQL Reporting Automation**      | Automated weekly reporting using SQL and Python     | SQL Server, Python               | [View Repo](https://github.com/abhishekrohatagi/your-repo-link) |
-| **Other Projects**                | Explore all my repositories                         | —                                | <https://github.com/abhishekrohatagi?tab=repositories>         |
+| **Other Projects**                | Explore all my repositories                         | —                                | [View All Repo](https://github.com/abhishekrohatagi?tab=repositories)|         |
 
 
 
