@@ -50,13 +50,6 @@ Engineering graduate with strong analytical foundation and hands-on experience i
 
 ➡️ *Check pinned repositories below for more!*
 
----
-
-## Currently Working On
-
-- Completing a **6-month Data Analytics Bootcamp**
-- Building a real-world **data analytics project portfolio**
-- Preparing for **SQL & case interview rounds**
 
 ---
 
