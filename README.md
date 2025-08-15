@@ -36,15 +36,7 @@ Aspiring Data Analyst | Python & SQL Enthusiast | Turning raw data into actionab
 
 ➡️ *Check the pinned repositories below for more details.*
 
----
 
-### 🚀 What I’m Currently Working On
-
-- Completing a **6-month Data Analytics Bootcamp**
-- Building **project portfolio** focused on real-world datasets
-- Preparing for **SQL & Case Interview questions**
-
----
 
 ### 📬 Let’s Connect
 
