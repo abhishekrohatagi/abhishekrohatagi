@@ -3,6 +3,12 @@
 Aspiring Data Analyst | Python & SQL Enthusiast | Turning raw data into actionable insights
 </p>
 
+<p align="center">
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -50,14 +56,6 @@ Engineering graduate with strong analytical foundation and hands-on experience i
 - Completing a **6-month Data Analytics Bootcamp**
 - Building a real-world **data analytics project portfolio**
 - Preparing for **SQL & case interview rounds**
-
----
-
-### 📬 Connect with Me
-
-[Email](mailto:yourmail@gmail.com) •
-[LinkedIn](https://www.linkedin.com/in/yourlinkedin) •
-[GitHub](https://github.com/yourusername)
 
 ---
 
