@@ -40,7 +40,7 @@ Engineering graduate with strong analytical foundation and hands-on experience i
 
 ---
 
-### 📂 Featured Projects
+## Featured Projects
 
 | Project                           | Description                                         | Tools Used                       | Link                                   |
 |-----------------------------------|-----------------------------------------------------|----------------------------------|----------------------------------------|
