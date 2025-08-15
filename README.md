@@ -1,21 +1,17 @@
 <h1 align="center">Hi there, I'm Abhishek Rohatagi 👋</h1>
-
 <p align="center">
 Aspiring Data Analyst | Python & SQL Enthusiast | Turning raw data into actionable insights
 </p>
 
 ---
 
-### 👨‍💻  About Me
+### 👨‍💻 About Me
 
-- 🎓 Mechanical Engineering graduate making a **career transition into Data & Analytics**
-- 📊 Skilled in **Python, SQL, Excel, Power BI**, and **Statistics**
-- 🔍 Passionate about **data-driven decision making, storytelling**, and **problem solving**
-- ✉️ Looking for **internships / full-time roles** in _Data Analytics / Business Analytics_
+Engineering graduate with strong analytical foundation and hands-on experience in data analytics. Proficient in Python, SQL, and data visualization tools with demonstrated ability to extract actionable insights from complex datasets. Passionate about leveraging data to solve business problems and drive decision-making.
 
 ---
 
-### 🛠 Technical Skills
+### ⚙️ Skills
 
 **Programming Languages:**  
 `Python` · `SQL` · `R`
@@ -45,20 +41,26 @@ Aspiring Data Analyst | Python & SQL Enthusiast | Turning raw data into actionab
 | **Customer Churn Prediction**     | Predict churn using ML on telecom dataset           | Python (Pandas, Sklearn)         |
 | **SQL Reporting Automation**      | Automated weekly reporting using SQL and Python     | SQL Server, Python               |
 
-➡️ *Check the pinned repositories below for more details.*
+➡️ *Check pinned repositories below for more!*
 
+---
 
+### 🚀 Currently Working On
 
-### 📬 Let’s Connect
+- Completing a **6-month Data Analytics Bootcamp**
+- Building a real-world **data analytics project portfolio**
+- Preparing for **SQL & case interview rounds**
 
-<p>
-  <a href="mailto:yourmail@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/yourlinkedin">LinkedIn</a> •
-  <a href="https://github.com/yourusername">GitHub</a>
-</p>
+---
+
+### 📬 Connect with Me
+
+[Email](mailto:yourmail@gmail.com) •
+[LinkedIn](https://www.linkedin.com/in/yourlinkedin) •
+[GitHub](https://github.com/yourusername)
 
 ---
 
 <p align="center">
-  <i>“Transforming data into decisions.”</i>
+ <i>“Transforming data into decisions.”</i>
 </p>
