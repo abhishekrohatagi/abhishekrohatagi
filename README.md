@@ -17,8 +17,6 @@ Aspiring Data Analyst | Python & SQL Enthusiast | Turning raw data into actionab
 
 ### 🛠 Technical Skills
 
-### ⚙️ Skills
-
 **Programming Languages:**  
 `Python` · `SQL` · `R`
 
